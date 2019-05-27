@@ -1,0 +1,142 @@
+/*start default theme*/
+
+
+
+
+/*start nav bar*/
+
+
+
+.navbar-brand span{
+    
+    color:#d39e3b; 
+    
+}
+
+ .navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+    
+   
+    background-color: #d39e3b;
+    
+    
+    
+}
+
+
+.navbar-inverse .navbar-nav > li > a:hover {background-color:#d39e3b }
+
+
+/*end nav bar*/
+
+
+
+/* start drop down*/
+
+.dropdown-menu{
+    
+    
+    
+    
+    border-top: 3px solid #d39e3b;
+    
+    
+    
+}
+
+
+.dropdown-menu > li > a {
+    
+    color:#d39e3b; }
+
+
+/*end drop down */
+
+
+/*start carousel*/
+.carousel-indicators .active{
+    
+
+background-color:#d39e3b;
+
+
+}
+
+
+/*end carousel*/
+
+
+
+.about .lead{ color:#d39e3b;}
+
+
+.about h1 span{
+    
+    color: #d39e3b;
+    
+}
+
+
+
+/*features*/
+
+
+
+.features{
+    
+  
+    
+    background-color:#d39e3b;
+    
+    
+}
+
+
+
+/*testimonials*/
+
+
+
+.testimonials h2{
+    
+    
+    color: #d39e3b;
+    
+    
+}
+
+
+
+
+.testimonials .carousel-indicators li{
+   
+    
+    
+    
+    border: 3px solid #d39e3b; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
